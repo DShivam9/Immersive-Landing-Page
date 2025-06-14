@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace,'Montserrat', sans-serif;
+}
+
+body{
+    font-family: system-ut, -apple-system,sans-serif,monospace;
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: ghostwhite;
+    min-height: 100vh;
+    line-height: 1.5;
+
+}
+
+.img{
+    position: absolute;
+    top:0;
+    right:0;
+    opacity: 0.4;
+    z-index: -1;
+
+}
+
+.layer-blur{
+    height: 0;
+    width: 30rem;
+    position: absolute;
+    top: 20%;
+    right: 0;
+    box-shadow: 0 0 700px 15px white;
+    rotate: -30deg;
+    z-index: -1;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 2rem;
+    position: relative;
+    overflow: hidden;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5rem;
+    z-index: 1000;
+    position: relative;
+}
+
+
+header h1{
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+
+    margin-left: -5%;
+
+}
+
+nav a{
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    transition: color 0.5s ease;
+    text-decoration: none;
+    color: inherit;
+
+}
+
+nav a:hover{
+    color: #5e07bd;
+
+}
+
+.signin{
+    background-color: #7e7e7e;
+    padding: 0.6rem 1.3rem;
+    border-radius: 50px;
+    border: none;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: background-color 0.5s ease-in;
+    cursor: pointer;
+}
+
+.signin:hover{
+    background-color: #5e07bd;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: calc(90vh - 5rem);
+
+}
+
+.content{
+    max-width: 40rem;
+    margin-left: 10%;
+    z-index: 999;
+
+}
+
+.tag-box{
+    margin-top: -7rem;
+    position: relative;
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 50px;
+    background: linear-gradient(to right, #6c6c6c, #7f42a7,#6600c5, #5300a0,#757575,#656565);
+    background-size: 200%;
+    animation: animationGradient 1s linear infinite ;
+    box-shadow: 0 0 15px gray ;
+}
+
+.tag-box .tag{
+    font-size: 1.3rem;
+    position: absolute;
+    inset: 3px 3px 3px 3px;
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid purple;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition:  0.5s ease;
+    cursor: pointer;
+}
+
+
+@keyframes animationGradient {
+    0%{
+        background-position: 0%;
+    }
+    100%{
+        background-position: 200%;
+    }
+}
+
+
+.tag-box .tag:hover{
+    color: black;
+    background: linear-gradient(to right, rgba(245, 245, 245, 0.53), rgba(245, 245, 245, 0.32));
+
+}
+
+.content .h1{
+    font-size: 4rem;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    margin: 2rem 0;
+    line-height: 1.2;
+    text-shadow: 0 0 10px rgba(128, 128, 128, 0.41);
+
+}
+
+.description{
+    font-size: 1.2rem;
+    letter-spacing: 0.05rem;
+    max-width: 35rem;
+    color: gray;
+}
+
+.buttons{
+    display: flex;
+    gap: 1rem;
+margin-top: 2rem;
+}
+
+.btn-started{
+    text-decoration: none;
+    border: 1px solid rgba(248, 248, 255, 0.67);
+    padding: 0.7rem 1.2rem;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+    transition: background-color 0.2s ease;
+}
+.btn-started:hover{
+    background-color: #818181;
+}
+
+.btn-main{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.79);
+    text-decoration: none;
+    border: 1px solid rgba(248, 248, 255, 0.67);
+    padding: 0.7rem 1.2rem;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+    transition: background-color 0.2s ease;
+}
+
+.btn-main:hover{
+    background-color: #818181;
+}
+
+.robot-3d{
+    position: absolute;
+    top: 0;
+    right: -250px;
+    bottom: 100px;
+    z-index: 1;
+}
