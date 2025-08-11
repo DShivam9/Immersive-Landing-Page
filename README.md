@@ -6,7 +6,7 @@ A sleek, futuristic landing page designed to deliver an immersive user experienc
 
 ## Demo
 
-Check out the live demo here: [Landing Page](https://dshivam9.github.io/Immersive-Landing-Page/) 
+Check out the live demo here: [Live Demo URL](https://your-live-demo-link.com) *(replace with your actual deployed link)*
 
 ---
 
@@ -22,10 +22,11 @@ Check out the live demo here: [Landing Page](https://dshivam9.github.io/Immersiv
 
 ## Technologies Used
 
-- **HTML5**  
-- **CSS3** (including animations and gradients)  
-- **JavaScript** (AOS library for animations)  
-- **Spline Viewer** (for 3D model embedding)  
+![HTML5]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F104300-3d-HTML5-Animated-Gif&psig=AOvVaw1tQnWLy2ZSLMXlTQdT7BKL&ust=1755001186196000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjCuIPfgo8DFQAAAAAdAAAAABAU))  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)  
+![AOS](https://img.shields.io/badge/AOS-Animation-blue?style=for-the-badge)
 
 ---
 
@@ -34,4 +35,3 @@ Check out the live demo here: [Landing Page](https://dshivam9.github.io/Immersiv
 1. Clone this repository  
    ```bash
    git clone https://github.com/yourusername/oscorp-landing-page.git
-
