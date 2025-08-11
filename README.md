@@ -6,7 +6,7 @@ A sleek, futuristic landing page designed to deliver an immersive user experienc
 
 ## Demo
 
-Check out the live demo here: [Live Demo URL]([git@github.com:DShivam9/Immersive-Landing-Page.git](url)) *(replace with your actual deployed link)*
+Check out the live demo here: [Live Demo URL](https://dshivam9.github.io/Immersive-Landing-Page/) 
 
 ---
 
