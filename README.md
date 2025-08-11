@@ -22,11 +22,16 @@ Check out the live demo here: [Live Demo URL](https://your-live-demo-link.com) *
 
 ## Technologies Used
 
-![HTML5]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F104300-3d-HTML5-Animated-Gif&psig=AOvVaw1tQnWLy2ZSLMXlTQdT7BKL&ust=1755001186196000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjCuIPfgo8DFQAAAAAdAAAAABAU))  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)  
-![AOS](https://img.shields.io/badge/AOS-Animation-blue?style=for-the-badge)
+## Technologies Used
+
+<p align="left">
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F104300-3d-HTML5-Animated-Gif&psig=AOvVaw1tQnWLy2ZSLMXlTQdT7BKL&ust=1755001186196000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjCuIPfgo8DFQAAAAAdAAAAABAU)" alt="HTML5" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spline/spline-original.svg" alt="Spline" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/michalsnik/aos/master/logo/aos.gif" alt="AOS" width="60" height="60" />
+</p>
+
 
 ---
 
