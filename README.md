@@ -20,15 +20,16 @@ Check out the live demo here: [Landing Page!🤖](https://dshivam9.github.io/Imm
 
 ---
 
-## Technologies Used
+## 🚀 Tools & Technologies
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/michalsnik/aos/master/logo/aos.gif" alt="AOS" width="60" height="60" />
-  <img src="https://brandfetch.com/spline.design/logo" alt="Spline" width="60" height="60" />
-</p>
+Here are the main tools and technologies I used to build this immersive landing page:
+
+| Tool / Language | Logo |
+|-----------------|------|
+| HTML5           | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) |
+| CSS3            | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
+| JavaScript      | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+| Spline          | ![Spline Logo](assets/spline-logo.png) |
 
 ---
 
