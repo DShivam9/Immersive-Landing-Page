@@ -28,7 +28,6 @@ Here are the main tools and technologies I used to build this immersive landing 
 |-----------------|------|
 | HTML5           | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) |
 | CSS3            | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
-| JavaScript      | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
 | Spline          | ![Spline Logo](assets/spline_logo.jpg) |
 
 ---
