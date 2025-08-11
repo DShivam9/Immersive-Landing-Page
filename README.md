@@ -36,4 +36,4 @@ Here are the main tools and technologies I used to build this immersive landing 
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/oscorp-landing-page.git
+   git clone https://github.com/DShivam9/oscorp-landing-page.git
