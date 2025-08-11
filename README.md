@@ -27,7 +27,7 @@ Check out the live demo here: [Landing Page!!](https://dshivam9.github.io/Immers
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spline/spline-original.svg" alt="Spline" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/michalsnik/aos/master/logo/aos.gif" alt="AOS" width="60" height="60" />
+  <img src="[https://raw.githubusercontent.com/michalsnik/aos/master/logo/aos.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fspline.design%2F&psig=AOvVaw1B8hezzM5C4aOkHsK6TJXQ&ust=1755001523015000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOji3KHggo8DFQAAAAAdAAAAABAE)" alt="AOS" width="60" height="60" />
 </p>
 
 
